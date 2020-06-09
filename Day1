@@ -1,0 +1,7 @@
+#2020.6.9
+
+刪除空格
+  .rstrip
+  .lstrip
+  .strip
+
