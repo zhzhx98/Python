@@ -1,2 +1,2 @@
-# go
-2222222
+# Python
+> python
