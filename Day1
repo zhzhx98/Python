@@ -5,3 +5,28 @@
   .lstrip
   .strip
 
+输出为字符
+  str()
+
+-1返回列表最后一个元素
+
+添加表格
+  name.append()
+
+插入新元素到表格
+  name.insert(位置,元素)
+
+删除表格内容
+  del name[]
+
+删除后依然可以使用值
+  name.pop()
+
+根据值删除内容
+  name.remove('')
+
+给列表中排序
+  name.sort()
+反向排序
+  name.sort(reverse=True)
+  
