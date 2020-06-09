@@ -1,9 +1,9 @@
 #2020.6.9
 
 刪除空格
-  .rstrip
-  .lstrip
-  .strip
+  name.rstrip
+  name.lstrip
+  name.strip
 
 输出为字符
   str()
@@ -30,3 +30,16 @@
 反向排序
   name.sort(reverse=True)
   
+临时排序
+  sorted(name)
+  
+反转排序
+  name.reverse()
+
+for循环
+  for a in b :
+
+生成数字
+  range()
+
+
