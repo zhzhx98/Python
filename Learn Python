@@ -41,5 +41,31 @@ for循环
 
 生成数字
   range()
+  range(起始，结束，增加)
+
+复制列表
+  b = a[:]
+  
+创建元组（不可修改）
+  a = ()
+
+字典
+  a ={b：c}
+  
+遍历字典
+  for a，b in c.items()
+
+选取字典中的值
+  a = ['b': 'c']
+  a.keys()指向b
+  a.values()指向c
+
+选取不重复的值
+  a.set(values())
 
 
+
+
+
+
+ 
